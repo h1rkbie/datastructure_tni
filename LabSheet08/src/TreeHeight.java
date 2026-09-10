@@ -63,10 +63,7 @@ public class TreeHeight {
 					}
 					
 				}
-				
 			}
-			
-            
 		}
 		return height-1;
 	}
